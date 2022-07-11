@@ -1,0 +1,46 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Outfit', 'Arial';
+}
+
+img {
+
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+
+}
+
+/* Typography */
+
+h2 {
+
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    line-height: 30px;
+    padding: 0 .5em;
+
+}
+
+p {
+
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+    padding: 0 .5em .5em 1em;
+
+}
+
+/* Layout */
+
+.container {
+
+    margin: 100px auto;
+    max-width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    padding: 1em;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
